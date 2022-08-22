@@ -23,16 +23,20 @@
 
 ## Theoretical understanding
 
-* [Azure docs](https://docs.microsoft.com/en-us/azure/)
+- [Azure docs](https://docs.microsoft.com/en-us/azure/)
+- [Microsoft security portals and admin centers](https://docs.microsoft.com/en-us/microsoft-365/security/defender/portals?view=o365-worldwide)
+- [Microsoft administrator portals](http://msportals.io/?search=)
+- s
 
 ## Hands-on skill building
 
-- Microsoft Learn
-  - * [Azure Free Trial](https://azure.microsoft.com/en-us/free/)
-
-* [Azure Pass offer](https://www.microsoftazurepass.com/)
-
--
+- [Microsoft Learn: Microsoft 365 Defender](https://docs.microsoft.com/en-us/learn/paths/sc-200-mitigate-threats-using-microsoft-365-defender/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-200)
+- [Microsoft Learn: Defender for Endpoint](https://docs.microsoft.com/en-us/learn/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-200)
+- [Microsoft Learn: Defender for Cloud](https://docs.microsoft.com/en-us/learn/paths/sc-200-mitigate-threats-using-azure-defender/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-200)
+- [Microsoft Learn: Kusto Query Language](https://docs.microsoft.com/en-us/learn/paths/sc-200-utilize-kql-for-azure-sentinel/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-200)
+- [Microsoft Learn: Sentinel](https://docs.microsoft.com/en-us/learn/paths/sc-200-configure-azure-sentinel-environment/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-200)
+- [Azure Free Trial](https://azure.microsoft.com/en-us/free/)
+- [Azure Pass offer](https://www.microsoftazurepass.com/)
 
 ## Practice exams
 
@@ -40,4 +44,3 @@
 - [Whizlabs SC-200](https://www.whizlabs.com/microsoft-security-operations-analyst-sc-200/)
 - [Udemy SC-200](https://www.udemy.com/course/new-and-latest-sc-200-exam-updated-practice-questions/)
 - [Tim's Practice Exam Comparison video](https://www.youtube.com/watch?v=_aH4DbpcJWA&t=2s)
-
