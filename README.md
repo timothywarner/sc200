@@ -27,16 +27,14 @@
 - [Azure docs](https://docs.microsoft.com/en-us/azure/)
 - [Microsoft security portals and admin centers](https://docs.microsoft.com/en-us/microsoft-365/security/defender/portals?view=o365-worldwide)
 - [Microsoft administrator portals](http://msportals.io/?search=)
-- Microsoft 365 Defender docs
-- Microsoft Defender for Cloud Apps docs
-- Microsoft Defender for Office 365 docs
-- Microsoft AD Identity Protection docs
-- Microsoft Defender for Endpoint docs
-- Microsoft Defender for Identity docs
-- Microsoft Defender for Cloud docs
-- Microsoft Sentinel docs
--
--
+- [Microsoft 365 Defender docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender/)
+- [Microsoft Defender for Cloud Apps docs](https://docs.microsoft.com/en-us/defender-cloud-apps/)
+- [Microsoft Defender for Office 365 docs](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/?view=o365-worldwide)
+- [Microsoft AD Identity Protection docs](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/)
+- [Microsoft Defender for Endpoint docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/)
+- [Microsoft Defender for Identity docs](https://docs.microsoft.com/en-us/defender-for-identity/)
+- [Microsoft Defender for Cloud docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/)
+- [Microsoft Sentinel docs](https://docs.microsoft.com/en-us/azure/sentinel/)
 
 ## Hands-on skill building
 
