@@ -19,8 +19,6 @@
 - bin
 - workspace/union
 
-
-
 ### Microsoft 365 Defender
 
 - Defender for Identity
@@ -33,10 +31,6 @@
   - Suppression rules
   - File hash indicators
   - Attack surface reduction rules
-
-
-
-
 
 ## DAY 2
 
