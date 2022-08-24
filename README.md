@@ -25,8 +25,6 @@
 ## Theoretical understanding
 
 - [Azure docs](https://docs.microsoft.com/en-us/azure/)
-- [Microsoft security portals and admin centers](https://docs.microsoft.com/en-us/microsoft-365/security/defender/portals?view=o365-worldwide)
-- [Microsoft administrator portals](http://msportals.io/?search=)
 - [Microsoft 365 Defender docs](https://docs.microsoft.com/en-us/microsoft-365/security/defender/)
 - [Microsoft Defender for Cloud Apps docs](https://docs.microsoft.com/en-us/defender-cloud-apps/)
 - [Microsoft Defender for Office 365 docs](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/?view=o365-worldwide)
@@ -35,6 +33,26 @@
 - [Microsoft Defender for Identity docs](https://docs.microsoft.com/en-us/defender-for-identity/)
 - [Microsoft Defender for Cloud docs](https://docs.microsoft.com/en-us/azure/defender-for-cloud/)
 - [Microsoft Sentinel docs](https://docs.microsoft.com/en-us/azure/sentinel/)
+
+## Portals
+
+- [Microsoft Azure portal](https://portal.azure.com)
+- [Microsoft Azure AD portal](https://aad.portal.azure.com)
+- [Microsoft Entra admin center](https://entra.microsoft.com)
+- [Microsoft 365 admin center](https://admin.microsoft.com)
+- [Microsoft 365 Defender portal](https://security.microsoft.com)
+- [Microsoft Defender for Cloud Apps admin center](https://portal.cloudappsecurity.com)
+- [Office 365 Security & Compliance admin center](https://protection.office.com)
+- [Microsoft Endpoint Manager admin center](https://endpoint.microsoft.com)
+- [Microsoft Defender for Identity portal](https://portal.atp.azure.com)
+- [Microsoft Purview compliance portal](https://compliance.microsoft.com)
+
+## Portal Portals
+
+- [Microsoft security portals and admin centers](https://docs.microsoft.com/en-us/microsoft-365/security/defender/portals?view=o365-worldwide)
+- [Microsoft administrator sites](http://msportals.io/?search=)
+- [Centro 365 browser extension](https://seanosullivan.co.uk/projects/centro365/)
+- [Microsoft 365 licensing](https://m365maps.com/)
 
 ## Hands-on skill building
 
