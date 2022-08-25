@@ -11,6 +11,7 @@
 - Azure AD Conditional Access
   - Named locations
 - Log Analytics
+  - Azure Arc
 - Resource firewalls & Private Link
 - Event Hubs > streaming alerts
 
@@ -31,6 +32,24 @@
   - Suppression rules
   - File hash indicators
   - Attack surface reduction rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## DAY 2
 

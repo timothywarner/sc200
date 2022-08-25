@@ -65,6 +65,7 @@
 - [Azure Free Trial](https://azure.microsoft.com/en-us/free/)
 - [Azure Pass offer](https://www.microsoftazurepass.com/)
 - [Kusto Query Playground](https://aka.ms/lademo)
+- [Kusto King tutorials](https://www.kustoking.com/)
 
 ## Practice exams
 
