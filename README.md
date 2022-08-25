@@ -21,6 +21,7 @@
 - [Microsoft Policies and FAQs](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 - [Exam scoring and score reports](https://docs.microsoft.com/en-us/learn/certifications/exam-scoring-reports)
 - [Microsoft online testing with Pearson Vue](https://docs.microsoft.com/en-us/learn/certifications/online-exams)
+- [Microsoft Exam Sandbox](https://aka.ms/examdemo)
 
 ## Theoretical understanding
 
@@ -63,6 +64,7 @@
 - [Microsoft Learn: Sentinel](https://docs.microsoft.com/en-us/learn/paths/sc-200-configure-azure-sentinel-environment/?ns-enrollment-type=exam&ns-enrollment-id=exam.sc-200)
 - [Azure Free Trial](https://azure.microsoft.com/en-us/free/)
 - [Azure Pass offer](https://www.microsoftazurepass.com/)
+- [Kusto Query Playground](https://aka.ms/lademo)
 
 ## Practice exams
 
