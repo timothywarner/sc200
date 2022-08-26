@@ -66,6 +66,11 @@
 - [Azure Pass offer](https://www.microsoftazurepass.com/)
 - [Kusto Query Playground](https://aka.ms/lademo)
 - [Kusto King tutorials](https://www.kustoking.com/)
+- [Azure Sentinel-To-Go](https://medium.com/threat-hunters-forge/azure-sentinel-to-go-b5f6848d3c61)
+- [Microsoft Sentinel sample data](https://github.com/Azure/Azure-Sentinel/tree/master/Sample%20Data)
+- [How to get hands-on experience with Sentinel](https://www.linkedin.com/pulse/how-do-i-get-hands-on-experience-microsoft-sentinel-sevegnani)
+- [Microsoft Sentinel training lab](https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Training/Azure-Sentinel-Training-Lab)
+- [Become a Microsoft Sentinel Ninja](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 
 ## Practice exams
 

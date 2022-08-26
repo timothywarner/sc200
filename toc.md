@@ -33,25 +33,23 @@
   - File hash indicators
   - Attack surface reduction rules
 
+### Whizlabs practice questions
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Exam sandbox
 
 
 
 ## DAY 2
+
+### Sweeping up the shavings
+
+- Review portals w/ MS Docs page
+- Tour Azure environment (app svs, sql, container)
+- Azure Policy backgrounder
+
+
+
+
 
 ### Microsoft Defender for Cloud
 
@@ -66,6 +64,7 @@
 
 ### Microsoft Sentinel
 
+- Sentinel resources on README
 - Deployment
 - Sentinel RBAC
 
